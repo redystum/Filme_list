@@ -1,0 +1,142 @@
+{
+  "id": "tt2861424",
+  "review_api_path": "/reviews/tt2861424",
+  "imdb": "https://www.imdb.com/title/tt2861424",
+  "contentType": "TVSeries",
+  "productionStatus": "Released",
+  "title": "Rick and Morty",
+  "image": "https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg",
+  "images": [
+    "https://m.media-amazon.com/images/M/MV5BMmMwMmI1NDAtZmY1My00ZmExLTg0MjQtNmZiNTA1ODAyYWRiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BODkzYzBkZDItY2U5OC00NTk1LWFiY2EtNDFiOWUyZDk0YmIyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BNjM1YTIyYzEtZTU5YS00MzM0LWFiNGEtMTE4YjYxZGYxNDlmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BODgyOGVkOTMtMmJhNS00MTFmLTg3YzktNzlhNDAyMDkzMTE4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BZGU5MjlkOGMtYTNlYS00N2EzLWIzYjktYmE0NWM0ZTBjMDIwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BNmM4OWFiNjgtNGQ5OC00MjNlLTg2OGMtMmY3ZmViODM4ZTdkXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BZDQ2YmI0YWEtNmYzOS00YjZmLWJlZjEtNGEzNTE0NDFhY2Y4XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BNDMxZjc0MWEtNmQ3NS00MTZlLTkyNjAtZGEyNWJiOGY2MWY2XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BOTNlMmQzMTYtYTc3Zi00NjMxLWI0ZTEtMmJiYWRlNDEzOWZiXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BNGM5OTdjZjUtMzM0Ni00NTU4LThjOTEtNjM0OTZjNzM4NTQxXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BNWEzNWRiODctODk2Zi00NmJlLTgyMDctY2ZhNTEzOGNiZWQ3XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BMTEzMzhjMzctYmYyYi00NTFmLWEyMzktMDI3MjViM2YwOTA3XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BMTkwNzI2MGItZDgyZi00Y2U3LTliNDQtODVlOTNjNzVlNDIzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg"
+  ],
+  "plot": "An animated series that follows the exploits of a super scientist and his not-so-bright grandson.",
+  "rating": {
+    "count": 566889,
+    "star": 9.1
+  },
+  "award": {
+    "wins": 18,
+    "nominations": 41
+  },
+  "contentRating": "TV-MA",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "releaseDetailed": {
+    "day": 2,
+    "month": 12,
+    "year": 2013,
+    "releaseLocation": {
+      "country": "United States",
+      "cca2": "US"
+    },
+    "originLocations": [
+      {
+        "country": "United States",
+        "cca2": "US"
+      }
+    ]
+  },
+  "year": 2013,
+  "spokenLanguages": [
+    {
+      "language": "English",
+      "id": "en"
+    }
+  ],
+  "filmingLocations": [
+    "New York City, New York, USA"
+  ],
+  "runtime": "23m",
+  "runtimeSeconds": 1380,
+  "actors": [
+    "Justin Roiland",
+    "Chris Parnell",
+    "Spencer Grammer"
+  ],
+  "directors": [],
+  "top_credits": [
+    {
+      "name": "Creators",
+      "value": [
+        "Dan Harmon",
+        "Justin Roiland"
+      ]
+    },
+    {
+      "name": "Stars",
+      "value": [
+        "Justin Roiland",
+        "Chris Parnell",
+        "Spencer Grammer"
+      ]
+    }
+  ],
+  "seasons": [],
+  "all_seasons": [
+    {
+      "id": "1",
+      "name": "Season 1",
+      "api_path": "/title/tt2861424/season/1"
+    },
+    {
+      "id": "2",
+      "name": "Season 2",
+      "api_path": "/title/tt2861424/season/2"
+    },
+    {
+      "id": "3",
+      "name": "Season 3",
+      "api_path": "/title/tt2861424/season/3"
+    },
+    {
+      "id": "4",
+      "name": "Season 4",
+      "api_path": "/title/tt2861424/season/4"
+    },
+    {
+      "id": "5",
+      "name": "Season 5",
+      "api_path": "/title/tt2861424/season/5"
+    },
+    {
+      "id": "6",
+      "name": "Season 6",
+      "api_path": "/title/tt2861424/season/6"
+    },
+    {
+      "id": "7",
+      "name": "Season 7",
+      "api_path": "/title/tt2861424/season/7"
+    },
+    {
+      "id": "8",
+      "name": "Season 8",
+      "api_path": "/title/tt2861424/season/8"
+    },
+    {
+      "id": "9",
+      "name": "Season 9",
+      "api_path": "/title/tt2861424/season/9"
+    },
+    {
+      "id": "10",
+      "name": "Season 10",
+      "api_path": "/title/tt2861424/season/10"
+    }
+  ]
+}

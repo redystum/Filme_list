@@ -1,0 +1,105 @@
+{
+  "id": "tt1517268",
+  "review_api_path": "/reviews/tt1517268",
+  "imdb": "https://www.imdb.com/title/tt1517268",
+  "contentType": "Movie",
+  "productionStatus": "Released",
+  "title": "Barbie",
+  "image": "https://m.media-amazon.com/images/M/MV5BNjU3N2QxNzYtMjk1NC00MTc4LTk1NTQtMmUxNTljM2I0NDA5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+  "images": [
+    "https://m.media-amazon.com/images/M/MV5BMjNjMDA4YTgtMGJjZS00ZmVmLThlYWEtMjhmYTY1MmRiNjJjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BNzBkOGQwNDktN2Y3Yy00NWU1LWEyOTYtZTU5ZDRiYWViYjBmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BMzUyZDg1YTItODYxNy00Y2EyLWFhZTgtNWIyZDE3OGZjNTU4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BZTM1NzVmZTItYmU0Zi00ODVmLWE4MWQtZTFlMzRiZmMxN2I4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BZjU3ZWFhMDYtMDUyZi00YzA2LThmNmUtNmJlMGE3MGM3ZDczXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BZTU3Y2RmM2MtNzdmYS00Mzc3LWJkYzUtYjU2OTQ2NDliZjdmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BZTY4YmU5NWYtMDE3YS00ZmM3LTg2NzUtZTdiNjM0YWI3NGZlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BMjVkN2EwMmEtMmMzNy00ZWExLTlhNjktN2RlMTVkNzM5NWNhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BZThhZTUwZGMtMzdhYS00YTUwLTg0YTQtYTM5YzMxNWY5OGZlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BYTNiMmRlZTAtNGY0YS00MjhmLWI0ZmMtOTgyOGE2MmI2OTRlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BM2Q3MzlkNDItODhmMS00NmFiLWIzZjctOGRlZDhjMTgyNzZjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BNGY0NTVhZDctYzliNy00YWE2LThjMDQtY2QyYzdlYzc4ZjAzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BZWQwY2RlYTAtNGZiNC00NzU3LTlhM2ItNTNhMTNhYTA0NTRlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg"
+  ],
+  "plot": "Barbie suffers a crisis that leads her to question her world and her existence.",
+  "rating": {
+    "count": 275459,
+    "star": 7.3
+  },
+  "award": {
+    "wins": 2,
+    "nominations": 1
+  },
+  "contentRating": "PG-13",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "releaseDetailed": {
+    "day": 21,
+    "month": 7,
+    "year": 2023,
+    "releaseLocation": {
+      "country": "United States",
+      "cca2": "US"
+    },
+    "originLocations": [
+      {
+        "country": "United States",
+        "cca2": "US"
+      },
+      {
+        "country": "United Kingdom",
+        "cca2": "GB"
+      }
+    ]
+  },
+  "year": 2023,
+  "spokenLanguages": [
+    {
+      "language": "English",
+      "id": "en"
+    },
+    {
+      "language": "Spanish",
+      "id": "es"
+    }
+  ],
+  "filmingLocations": [
+    "Venice Beach, Venice, Los Angeles, California, USA"
+  ],
+  "runtime": "1h 54m",
+  "runtimeSeconds": 6840,
+  "actors": [
+    "Margot Robbie",
+    "Ryan Gosling",
+    "Issa Rae"
+  ],
+  "directors": [
+    "Greta Gerwig"
+  ],
+  "top_credits": [
+    {
+      "name": "Director",
+      "value": [
+        "Greta Gerwig"
+      ]
+    },
+    {
+      "name": "Writers",
+      "value": [
+        "Greta Gerwig",
+        "Noah Baumbach"
+      ]
+    },
+    {
+      "name": "Stars",
+      "value": [
+        "Margot Robbie",
+        "Ryan Gosling",
+        "Issa Rae"
+      ]
+    }
+  ]
+}
